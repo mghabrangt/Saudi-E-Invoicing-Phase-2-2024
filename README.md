@@ -1,4 +1,6 @@
 
+This repo we are going to archive , as there is new version with advanced features has been released. Please use the new version available here https://github.com/ERPGulf/zatca_erpgulf
+
 
 Saudi VAT Phase-2 implementation according to new Zatca Guidelines 2024
 
